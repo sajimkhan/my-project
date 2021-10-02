@@ -1,0 +1,27 @@
+h1{
+    color: black;
+    margin: 5px;
+    padding-top:10px;
+}
+h4{
+    margin: 5px;
+}
+p{
+    margin: 5px;
+    padding-top:10px;
+}
+button{
+    background-color:green;
+    font-weight:bold;
+    
+}
+img{
+    height:270px;
+    width:300px;
+    margin: 10px;
+    margin-block-en: 10px;
+
+}
+span{
+    color:aqua;
+}
